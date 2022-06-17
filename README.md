@@ -9,8 +9,20 @@ https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data
 
 weather data
 
-Machine learning Algorithm
 
-Decision Tree - use the decsion tree classifier to identify how long a taxi trip duration will take
+1. Exploratory Data Analysis & Data Preprocessing
+  - insights
+  - average number of ride trends
+  - average ride duration trends
 
-Linear Regession
+2. Models
+
+  Identify how long a taxi trip duration will take
+
+  - Linear Regession
+  - XGBoot
+
+  Identify ride demand of NYC Taxi
+  - ARIMA model
+
+
