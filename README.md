@@ -5,9 +5,10 @@ This project is to analysis NYU taxi data and find out when and where the taxi d
 
 Data Source
 
-https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data
+NYC Taxi and Limousine Commission (TLC) :https://www.kaggle.com/datasets/neilclack/nyc-taxi-trip-data-google-public-data
 
-weather data
+weather data：
+https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016
 
 
 1. Exploratory Data Analysis & Data Preprocessing
