@@ -24,6 +24,8 @@ https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016
   - XGBoot
 
   Identify ride demand of NYC Taxi
+  
+  time series analysis and forecasting
   - ARIMA model
 
 
